@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Jeff Smith, PsyD
+tagline:          'Psychotherapist & Writer'
+description:      'Do not take yourself for granted. Listen carefully to what you think and articulate the truth that you know without resentment and without apology. See where the truth takes you.'
+url:              http://jeffreygrantsmith.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Jeff Smith'
   url:            https://twitter.com/mdo
 
 paginate:         5
